@@ -1,4 +1,6 @@
-# wearable_sensing_app
+# wearableSensingApp
+
+ウェアラブルセンシング技術の一環として、センサデータを表示できるアプリケーション
 
 Wearable sensing indicator application.
 
